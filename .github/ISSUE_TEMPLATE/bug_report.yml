@@ -13,7 +13,7 @@ body:
       label: Installation
       description: How did you install Statamic?
       options:
-        - Fresh statamic/statamic site via CLI
+        - Fresh ms/ms site via CLI
         - Starter Kit using via CLI
         - Existing Laravel app
         - Other (please explain)
