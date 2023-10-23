@@ -1,5 +1,5 @@
 name: Bug report
-description: Fill out a bug report to help us improve Statamic.
+description: Fill out a bug report to help us improve our MarketingSoftware
 body:
   - type: textarea
     attributes:
